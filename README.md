@@ -1,1 +1,2 @@
 # drawChineseRadicals
+This is a typescript program to draw one of the first eight Chinese radicals (the components that make up chinese characters). It was originally in my RadicalStories ASP.NET project, but I took it out because I refer back to it often as one of my favorite things I've done. Unfortunately a lot has to be rewritten for it to work as a standalone script, but I wanted to put it here so I can talk about and refer back to it.
